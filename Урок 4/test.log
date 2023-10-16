@@ -1,0 +1,12 @@
+2023-10-16 14:05:07,418 - INFO - Starting test: test_deploy - 2023-10-16 14:05:07.418824
+2023-10-16 14:05:07,567 - INFO - Finished test: test_deploy - 2023-10-16 14:05:07.567477
+2023-10-16 14:05:07,567 - INFO - Starting test: test_ssh_checkout_positive[0.0.0.0-user2-zf59am41-22] - 2023-10-16 14:05:07.567477
+2023-10-16 14:05:07,583 - INFO - Finished test: test_ssh_checkout_positive[0.0.0.0-user2-zf59am41-22] - 2023-10-16 14:05:07.583557
+2023-10-16 14:05:07,583 - INFO - Starting test: test_ssh_getout[0.0.0.0-user2-zf59am41-22] - 2023-10-16 14:05:07.583557
+2023-10-16 14:05:07,598 - INFO - Finished test: test_ssh_getout[0.0.0.0-user2-zf59am41-22] - 2023-10-16 14:05:07.598273
+2023-10-16 14:05:07,598 - INFO - Starting test: test_ssh_checkout_negative[0.0.0.0-user2-zf59am41-22] - 2023-10-16 14:05:07.598273
+2023-10-16 14:05:07,618 - INFO - Finished test: test_ssh_checkout_negative[0.0.0.0-user2-zf59am41-22] - 2023-10-16 14:05:07.618124
+2023-10-16 14:05:07,618 - INFO - Starting test: test_upload_files[0.0.0.0-user2-zf59am41-tests/p7zip-full.deb-/home/user2/p7zip-full.deb-22] - 2023-10-16 14:05:07.618124
+2023-10-16 14:05:07,668 - INFO - Finished test: test_upload_files[0.0.0.0-user2-zf59am41-tests/p7zip-full.deb-/home/user2/p7zip-full.deb-22] - 2023-10-16 14:05:07.668130
+2023-10-16 14:05:07,668 - INFO - Starting test: test_download_files[0.0.0.0-user2-zf59am41-/home/user2/p7zip-full.deb-tests1/p7zip-full.deb-22] - 2023-10-16 14:05:07.668130
+2023-10-16 14:05:07,708 - INFO - Finished test: test_download_files[0.0.0.0-user2-zf59am41-/home/user2/p7zip-full.deb-tests1/p7zip-full.deb-22] - 2023-10-16 14:05:07.708520
